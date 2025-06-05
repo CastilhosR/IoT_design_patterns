@@ -133,5 +133,5 @@ Se em um unico projeto o arquiteto pode escolher usar uma mistura de padrões, e
 
 Tambem não me passa despercebida a tentativa de expandir a caracteristica verborrágica da linguagem Java para outras linguagens mais enxutas.
 
-No meu interessante ponto de vista acabamos o codigo um tanto macarrônico. ;-)
+No meu interessante ponto de vista acabamos com o codigo um tanto macarrônico. ;-)
 
