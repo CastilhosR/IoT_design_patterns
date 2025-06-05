@@ -128,5 +128,5 @@ Tem sido bem dificil compreender a relevancia desse ou daquele padrão de projet
 Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
 
 
-Portanto, no meu interessante ponto de vista ... trata-se um código 'não pythônico' e um tanto espaguetoso. ;-)
+Portanto, no meu interessante ponto de vista ... trata-se um código 'não pythônico' e um tanto macarrônico. ;-)
 
