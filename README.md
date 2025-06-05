@@ -36,7 +36,10 @@ SensorFactory.create_sensor("temperature", publisher)
 
 ```
 .
-├── sensors/                # Sensores e a fábrica de sensores
+├── .github/workflows       # Sensores e a fábrica de sensores
+│   └── pytest.yml          # Configuração da Pipeline (Github Actions)
+│
+├── sensors/                # Sensores e a fábrica de sensores (mockups)
 │   ├── base.py             # Classe abstrata de Sensor (Bridge)
 │   ├── temperature.py      # Sensor de temperatura
 │   ├── humidity.py         # Sensor de umidade
@@ -58,7 +61,10 @@ SensorFactory.create_sensor("temperature", publisher)
 │   └── test.sh
 │
 ├── main.py                 # Execução principal
-└── README.md               # Este arquivo
+├── pytest.ini              # Configurações do ambiente dos testes
+├── README.md               # Este Arquivo
+├── requirements.txt        # arquivo com os requisitos de Bibliotecas Python
+└── sensor_data.csv         # arquivo com persistencia dos dados dos sensores
 ```
 
 ---
