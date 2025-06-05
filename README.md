@@ -128,7 +128,7 @@ Tem sido bem dificil compreender a relevancia desse ou daquele padrão de projet
 Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
 
 
-Se em um unico projeto o arquiteto pode escolher usar uma mistura de padrões, então a palavra 'padrão' está mal aplicada. Poderiamos usar a expressão 'técnica recomendada para este tipo de problema'.
+Se em um unico projeto o arquiteto pode escolher usar uma mistura de padrões, então a palavra 'padrão' está mal aplicada. Poderiamos usar a expressão 'técnica recomendada para este tipo de problema, mas voce pode usar outra coisa se quiser'.
 
 
 Tambem não me passa despercebida a tentativa de expandir a caracteristica verborrágica da linguagem Java para outras linguagens mais enxutas.
