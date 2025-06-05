@@ -122,7 +122,7 @@ chmod +x scripts/test.sh
 
 ##  Observações pessoais:
 
-- Foi bem dificil compreender a relevancia desse ou daquele padrão de projeto, principalmente em ambiente de desenvolvimento Python cujo codigo, por definição, é enxuto. 
+Tem sido bem dificil compreender a relevancia desse ou daquele padrão de projeto, principalmente em ambiente de desenvolvimento Python cujo codigo, por definição, é enxuto. 
 
 
 Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
