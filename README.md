@@ -131,7 +131,7 @@ Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
 Se em um unico projeto o arquiteto pode escolher usar uma mistura de padrões, então a palavra 'padrão' está mal aplicada. Poderiamos usar a expressão 'técnica recomendada para este tipo de problema'.
 
 
-Tambem não me passa despercebida a tentativa de expandir a influencia verborrágica da lingugem Java para outras linguagens mais enxutas.
+Tambem não me passa despercebida a tentativa de expandir a caracteristica verborrágica da linguagem Java para outras linguagens mais enxutas.
 
 No meu interessante ponto de vista acabamos o codigo um tanto macarrônico. ;-)
 
