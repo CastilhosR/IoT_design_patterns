@@ -118,9 +118,15 @@ chmod +x scripts/test.sh
 - Python 3.8+
 - pytest (para testes)
 
+---
 
 ##  Observações pessoais:
 
-- Foi bem dificil compreender a relevancia desse ou daquele padrão de projeto, principalmente em ambiente de desenvolvimento Python cujo codigo, por definição, é enxuto. Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
+- Foi bem dificil compreender a relevancia desse ou daquele padrão de projeto, principalmente em ambiente de desenvolvimento Python cujo codigo, por definição, é enxuto. 
+
+
+Nesse contexto, incluir linhas a mais de codigo vai contra o "Zen do Python".
+
+
 Portanto, no meu interessante ponto de vista ... trata-se um código 'não pythônico' e um tanto espaguetoso. ;-)
 
